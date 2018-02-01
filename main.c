@@ -13,5 +13,7 @@ int main()
         int z=(50/(i-x));
     }
 
+    printf("New line");
+
     return 0;
 }
